@@ -1,4 +1,4 @@
-![Paneedah-Header](https://user-images.githubusercontent.com/76911089/222260903-80d983f0-1b9e-464e-8f46-c718b78ec304.png)
+![Paneedah-GitHub-Header](https://user-images.githubusercontent.com/76911089/222261776-4b386479-60be-46ef-abe6-a26ac8f42813.png)
 
 <h3 align="center">Hi there, I'm Paneedah 👋</h3>
 
