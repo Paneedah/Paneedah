@@ -7,7 +7,7 @@
 >
 > I love to play games with friends, work on new projects, code, learn new languages and look at animals (especially foxes)!
 >
-> 👾 **Some of my favourite games include;**
+> 👾 **Some of my favourite games are..**
 > - Call of Duty
 > - Valorant
 > - Minecraft
