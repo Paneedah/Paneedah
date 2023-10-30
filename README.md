@@ -3,7 +3,7 @@
 > # 🚀 Oh, hey there, I'm Paneedah!
 > 
 > ### 💬 A little about me..
-> My name is Bartosz, and I'm 20 years old (I know, I'm old 😭). My favorite color is purpl.
+> My name is Bartosz, and I'm 20 years old (I know, I'm old 😭). My favorite color is purpl. I like to blep! 😋
 >
 > I love to play games with friends, work on new projects, code, learn new languages and look at animals (especially foxes)!
 >
