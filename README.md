@@ -33,7 +33,7 @@
 > ### 🎮 Add me on discord!
 > **Username**: `paneedah`
 >
-> **Join some of my communities!**
+> 🏠 **Join some of my communities!**
 > - [MTDOJRP (FiveM)](https://discord.gg/fSeVb6tDez)
 > - [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny)
 
