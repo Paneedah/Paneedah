@@ -1,17 +1,29 @@
-![Paneedah-GitHub-Header](https://user-images.githubusercontent.com/76911089/222261776-4b386479-60be-46ef-abe6-a26ac8f42813.png)
-
-<h3 align="center">Hi there, I'm Paneedah 👋</h3>
+> [!IMPORTANT]
+>
+> # 🚀 Oh, hey there, I'm Paneedah!
+> 
+> ### 💬 A little about me..
+> My name is Bartosz, and I'm 20 years old (I know, I'm old ;-;).
+>
+> I love to play games with friends, work on new projects and code, learn new languages and look at animals (especially foxes)!
+>
+> 🎮 **Some of my favourite games include;**
+> - Call of Duty
+> - Valorant
+> - Minecraft
+>
+> ### ⌨️ Languages I know..
+> - Java: **Over 3 years of experience** in Java Programming, primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!.
+> - Lua: **Over 6 months of experience** in Lua Programming obtained primarilly from **FiveM (Modded GTA5)**.
+> - Python: **Over 1 year of experience** in Python Programming, as it was part of my **Cyber Security Course** at **University**.
+>
+> ### 📌 Some of my biggest projects..
+> - Java: Proud **Owner** and **Lead Developer** for **[Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped version of **Modern Warfare Cubed**.
+> - Lua: **Developer** for one of the core scripts running the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source.
+> - Python: **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaberation with **[ameasere](https://github.com/ameasere)**.
 
 <br>
-
-<p>
-  Seriously though, I don't really have an idea as to what to put here yet.
-  So, for the time being.. "blep"
-</p>
-
-<br>
-
-### 📈 Here are my GitHub Stats!
-_Or at least my stats within Public Repositories._
-
-[![Paneedah's github stats](https://github-readme-stats.vercel.app/api?username=Paneedah&show_icons=true&theme=dark)](https://github.com/Paneedah)
+<div>
+  <img src="https://raw.githubusercontent.com/Supermarcel10/Supermarcel10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
+  <img src="https://steam-stat.vercel.app/api?profileName=Paneedah" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
+</div>
