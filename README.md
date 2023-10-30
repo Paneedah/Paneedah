@@ -21,7 +21,7 @@
 > ### 📊 Some of my biggest projects..
 > - Java: Proud **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped version of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft).
 > - Java: **Owner** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch.
-> - Lua: **Developer** for one of the core scripts running the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source.
+> - Lua: **Developer** for one of the core scripts powering the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source.
 > - Python: **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**.
 >
 > ### 📌 Things I want to explore..
