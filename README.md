@@ -27,6 +27,7 @@
 > ### 📌 Things I want to explore..
 > - The **JavaScript** language.
 > - **HTML** & **CSS**, even if just for some very basic front-end design.
+> - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
 > - Making my **own game**. I know, wishful thinking huh? Oh well.
 >
 > ### 🎮 Add me on discord!
