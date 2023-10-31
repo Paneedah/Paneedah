@@ -7,7 +7,7 @@
 >
 > I love to play games with friends, work on new projects, code, learn new languages and look at animals (especially foxes)!
 >
-> Used to study Cyber Security, self-taught myself how to code and currently employed by Sony as a TV & AV specialist.
+> Used to study Cyber Security, self-taught myself how to code and currently employed by Sony as a TV & AV selling specialist.
 >
 > 👾 **Some of my favourite games are..**
 > - Call of Duty
