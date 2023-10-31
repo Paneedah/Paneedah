@@ -37,10 +37,11 @@
 > 
 > Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
 >
-> ### 🎮 Add me on discord..
-> **Username**: `paneedah`
+> ### 🗪 Get in touch with me..
+> - **Discord Username**: `paneedah`
+> - **Email**: `bart@panada.cc`
 >
-> 🏠 **Join some of my communities!**
+> 🏠 **Join some of my discord communities!**
 > - [MTDOJRP (FiveM)](https://discord.gg/fSeVb6tDez)
 > - [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny)
 
