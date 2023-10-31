@@ -27,7 +27,7 @@
 > - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
 >
 > ### 📌 Things I want to explore..
-> - Contiunue to explore the **JavaScript**, especially **NodeJS**.
+> - Contiunue to explore the **JavaScript** programming language.
 > - **HTML** & **CSS**, even if just for some very basic front-end design.
 > - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
 > - Making **my own game**. I know, wishful thinking huh? Oh well.
