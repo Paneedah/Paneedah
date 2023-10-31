@@ -32,7 +32,8 @@
 >
 > ### 🧑🏻‍💻 Hire me..
 > Want to hire me for a project? The best way to reach me is via Discord!
-> - Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
+> 
+> Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
 >
 > ### 🎮 Add me on discord!
 > **Username**: `paneedah`
