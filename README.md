@@ -15,7 +15,7 @@
 > ### ⌨️ Languages I know..
 > - Java: **Over 3 years of experience** in Java Programming, primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!
 > - Lua: **Over 6 months of experience** in Lua Programming obtained primarilly from **FiveM (Modded GTA5)**.
-> - Python: **Over 1 year of experience** in Python Programming, as it was part of my **Cyber Security Course** at **University**.
+> - Python: **Over 1 year of experience** in Python Programming, which was initially obtained from my **Cyber Security Course** at **University**.
 > - JavaScript: Very **entry-level** experience and understanding.
 >
 > ### 📊 Some of my biggest projects..
