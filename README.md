@@ -35,7 +35,7 @@
 > 
 > Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
 >
-> ### 🎮 Add me on discord!
+> ### 🎮 Add me on discord..
 > **Username**: `paneedah`
 >
 > 🏠 **Join some of my communities!**
