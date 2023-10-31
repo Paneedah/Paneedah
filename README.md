@@ -27,10 +27,10 @@
 > - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
 >
 > ### 📌 Things I want to explore..
-> - The **JavaScript** language.
+> - Contiunue to explore the **JavaScript**, especially **NodeJS**.
 > - **HTML** & **CSS**, even if just for some very basic front-end design.
 > - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
-> - Making my **own game**. I know, wishful thinking huh? Oh well.
+> - Making **my own game**. I know, wishful thinking huh? Oh well.
 >
 > ### 🧑🏻‍💻 Hire me..
 > Want to hire me for a project? The best way to reach me is via Discord!
