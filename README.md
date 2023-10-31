@@ -21,10 +21,10 @@
 > - JavaScript: Very **entry-level** experience and understanding.
 >
 > ### 📊 Some of my biggest projects..
-> - Java: Proud **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped version of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft).
-> - Java: **Owner** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch.
-> - Lua: **Developer** for one of the core scripts powering the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source.
-> - Python: **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**.
+> - **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped <ins>fork</ins> of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft). **Made using <ins>Java</ins>!**
+> - **Founder** and **Lead Developer** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch. **Made using <ins>Java</ins>!**
+> - **Head Developer** for one of the core scripts powering the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
+> - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
 >
 > ### 📌 Things I want to explore..
 > - The **JavaScript** language.
