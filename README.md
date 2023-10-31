@@ -30,6 +30,10 @@
 > - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
 > - Making my **own game**. I know, wishful thinking huh? Oh well.
 >
+> ### 🧑🏻‍💻 Hire me..
+> Want to hire me for a project? The best way to reach me is via Discord!
+> - Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
+>
 > ### 🎮 Add me on discord!
 > **Username**: `paneedah`
 >
