@@ -25,6 +25,7 @@
 > - **Founder** and **Lead Developer** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch. **Made using <ins>Java</ins>!**
 > - **Head Developer** for one of the core scripts powering the **[MTDOJRP Server](https://docs.mtdojrp.org/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
 > - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
+> - **Want to see more?** 🔍 Check out [my repos](https://github.com/Paneedah?tab=repositories)!
 >
 > ### 📌 Things I want to explore..
 > - Contiunue to explore the **JavaScript** programming language.
