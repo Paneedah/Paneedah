@@ -43,7 +43,7 @@
 > - **Email**: `bart@panada.cc`
 >
 > 🏠 **Join some of my discord communities!**
-> - [KCRP (FiveM)](https://discord.gg/fSeVb6tDez)
+> - [Kelly County RolePlay (FiveM)](https://discord.gg/fSeVb6tDez)
 > - [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny)
 
 <div>
