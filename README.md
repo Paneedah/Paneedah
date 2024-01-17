@@ -18,7 +18,7 @@
 > - **Over 3 years of experience** in <ins>Java</ins> primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!
 > - **Over 1 year of experience** in <ins>Python</ins> initially obtained from my **Cyber Security Course** at **University**.
 > - **Over 8 months of experience** in <ins>Lua</ins> obtained primarilly from **FiveM (Modded GTA5)**.
-> - Very entry-level** experience and understanding in <ins>HTML</ins>, <ins>CSS</ins> and <ins>JavaScript</ins>.
+> - **Very entry-level** experience and understanding in <ins>HTML</ins>, <ins>CSS</ins> and <ins>JavaScript</ins>.
 >
 > ### 📊 Some of my biggest projects..
 > - **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped <ins>fork</ins> of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft). **Made using <ins>Java</ins>!**
