@@ -17,7 +17,7 @@
 > ### ⌨️ Languages I know..
 > - **Over 3 years of experience** in <ins>Java</ins> primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!
 > - **Over 1 year of experience** in <ins>Python</ins> initially obtained from my **Cyber Security Course** at **University**.
-> - **Over 8 months of experience** in <ins>Lua</ins> obtained primarilly from **FiveM (Modded GTA5)**.
+> - **Over 1 year of experience** in <ins>Lua</ins> obtained primarilly from **FiveM (Modded GTA5)**.
 > - **Very entry-level** experience and understanding in <ins>HTML</ins>, <ins>CSS</ins> and <ins>JavaScript</ins>.
 >
 > ### 📊 Some of my biggest projects..
