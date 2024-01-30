@@ -9,11 +9,6 @@
 >
 > Used to study Cyber Security, self-taught myself how to code and currently employed by Sony as a TV & AV selling specialist.
 >
-> 👾 **Some of my favourite games are..**
-> - Call of Duty
-> - Valorant
-> - Minecraft
->
 > ### ⌨️ Languages I know..
 > - **Over 3 years of experience** in <ins>Java</ins> primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!
 > - **Over 1 year of experience** in <ins>Python</ins> initially obtained from my **Cyber Security Course** at **University**.
@@ -32,6 +27,11 @@
 > - **HTML** & **CSS**, even if just for some very basic front-end design.
 > - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
 > - Making **my own game**. I know, wishful thinking huh? Oh well.
+>
+> 👾 **Some of my favourite games are..**
+> - Call of Duty
+> - Counter Strike 2
+> - Minecraft
 >
 > ### 🧑🏻‍💻 Hire me..
 > Want to hire me for a project? The best way to reach me is via Discord!
