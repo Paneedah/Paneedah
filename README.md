@@ -28,7 +28,7 @@
 > - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
 > - Making **my own game**. I know, wishful thinking huh? Oh well.
 >
-> 👾 **Some of my favourite games are..**
+> ### 👾 Some of my favourite games are..
 > - Call of Duty
 > - Counter Strike 2
 > - Minecraft
@@ -46,6 +46,7 @@
 > - [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
 > - [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny)
 
+<br>
 <div>
   <img src="https://raw.githubusercontent.com/Paneedah/Paneedah/414e9741a1c9a07f257855ebeee53fc4d248e22a/profile-3d-contrib/profile-night-rainbow.svg" alt="Commit_Stats" style="float: left;  width: 50%; max-height: 35%">
   <img src="https://steam-stat.vercel.app/api?profileName=Paneedah" alt="Steam_Stats" style="float: left; width: 47%; max-height: 35%">
