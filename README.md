@@ -18,7 +18,7 @@
 > ### 📊 Some of my biggest projects..
 > - **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped <ins>fork</ins> of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft). **Made using <ins>Java</ins>!**
 > - **Founder** and **Lead Developer** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch. **Made using <ins>Java</ins>!**
-> - **Head Developer** for one of the core scripts powering the **[Kelly County Roleplay](https://docs.kcdojrp.com/docs/intro)** on FiveM (PanMenu)! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
+> - **Head Developer** for one of the core scripts powering the **[Kelly County Roleplay](https://docs.kcdojrp.com/docs/intro)** on FiveM! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
 > - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
 > - **Want to see more?** 🔍 Check out [my repos](https://github.com/Paneedah?tab=repositories)!
 >
