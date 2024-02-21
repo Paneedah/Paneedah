@@ -20,7 +20,7 @@
 > - **Founder** and **Lead Developer** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch. **Made using <ins>Java</ins>!**
 > - **Head Developer** for one of the core scripts powering the **[Kelly County Roleplay](https://docs.kcdojrp.com/docs/intro)** on FiveM! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
 > - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
-> - **Want to see more?** 🔍 Check out [my repos](https://github.com/Paneedah?tab=repositories)!
+> - **Want to see more?** 🔍 Check out [my repos](https://github.com/Paneedah?tab=repositories), but keep in mind that most of my work is in <ins>Private Repos</ins>.
 >
 > ### 📌 Things I want to explore..
 > - Contiunue to explore the **JavaScript** programming language.
