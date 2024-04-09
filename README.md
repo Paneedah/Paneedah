@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> # 🚀 Hi there! I'm Bartosz (Paneedah)
+> # 🚀 Hi there! I'm Paneedah
 > 
 > ### 💬 About Me
 > I'm a 20-year-old software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I have a quirky sense of humor (blep! 😋). Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
@@ -35,10 +35,10 @@
 > * **Email:** bart@panada.cc
 >
 > **Communities:**
-> * Kelly County RolePlay (FiveM): [https://discord.gg/RXpVfmKXsK](https://discord.gg/RXpVfmKXsK)
-> * Modern Warfare: Cubed (Minecraft Mod): [https://discord.gg/FxmrYg2eny](https://discord.gg/FxmrYg2eny) 
+> * [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
+> * [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny) 
 > 
-> **Check out my GitHub for more!: [https://github.com/Paneedah?tab=repositories](https://github.com/Paneedah?tab=repositories)** (Note: Some projects are in private repositories) 
+> **Check out my [GitHub Repositories](https://github.com/Paneedah?tab=repositories) for more!** *(Note: Most projects are in private repositories)*
 
 <br>
 <div>
