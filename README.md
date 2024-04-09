@@ -1,51 +1,44 @@
 > [!IMPORTANT]
 >
-> # 🚀 Oh, hey there, I'm Paneedah!
+> # 🚀 Hi there! I'm Bartosz (Paneedah)
 > 
-> ### 💬 A little about me..
-> My name is Bartosz, and I'm 20 years old (I know, I'm old 😭). My favorite color is purpl. I like to blep! 😋
+> ### 💬 About Me
+> I'm a 20-year-old software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I have a quirky sense of humor (blep! 😋). Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
 >
-> I love to play games with friends, work on new projects, code, learn new languages and look at animals (especially foxes)!
+> ### ⌨️ Technical Skills
+> * **Java:** 3+ years of experience developing Minecraft plugins, mods, and Discord bots.
+> * **Python:** 1+ year of experience, initially gained through my Cyber Security course.
+> * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
+> * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
 >
-> Used to study Cyber Security, self-taught myself how to code and currently employed by Sony as a TV & AV selling specialist.
+> ### 📊 Notable Projects
+> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - Revamped, high-quality fork of a popular gun mod (Java).
+> * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** -  Large-scale Minecraft War server, achieved 150+ players at launch.
+> * **Head Developer: Kelly County Roleplay (FiveM)** -  Developed core scripts for a popular FiveM roleplay server (Lua).
+> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project in collaboration with [ameasere](https://github.com/ameasere) (Python).
 >
-> ### ⌨️ Languages I know..
-> - **Over 3 years of experience** in <ins>Java</ins> primarily working with **Minecraft Plugins**, **Mods** and **Discord Bots**!
-> - **Over 1 year of experience** in <ins>Python</ins> initially obtained from my **Cyber Security Course** at **University**.
-> - **Over 1 year of experience** in <ins>Lua</ins> obtained primarilly from **FiveM (Modded GTA5)**.
-> - **Very entry-level** experience and understanding in <ins>HTML</ins>, <ins>CSS</ins> and <ins>JavaScript</ins>.
+> ### 📌 Goals & Interests
+> * Deepen my understanding of JavaScript, HTML, and CSS.
+> * Explore UI/UX design principles.
+> * Continue developing game-related projects, with an eventual goal of creating my own game. 
 >
-> ### 📊 Some of my biggest projects..
-> - **Owner** and **Lead Developer** for **[Modern Warfare: Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)**. A high-quality and revamped <ins>fork</ins> of **Vic's Modern Warfare** (one of the best realistic gun mods in Minecraft). **Made using <ins>Java</ins>!**
-> - **Founder** and **Lead Developer** of one of the largest Minecraft War servers (**NuclearLands**, later renamed to **VoidMC**), achieving **over 150 players** on launch. **Made using <ins>Java</ins>!**
-> - **Head Developer** for one of the core scripts powering the **[Kelly County Roleplay](https://docs.kcdojrp.com/docs/intro)** on FiveM! Unfortunately, due to security reasons this code cannot be open-source. **Made using <ins>Lua</ins>!**
-> - **Senior Developer** for **[EasyRSA](https://github.com/ameasere/EasyRSA)**, a university project made in Python in collaboration with **[ameasere](https://github.com/ameasere)**. **Made using <ins>Python</ins>!**
-> - **Want to see more?** 🔍 Check out [my repos](https://github.com/Paneedah?tab=repositories), but keep in mind that most of my work is in <ins>Private Repos</ins>.
+> ### 👾 Favorite Games
+> * Call of Duty
+> * FiveM (GTAV Roleplay)
+> * Counter-Strike 2
+> * Minecraft
 >
-> ### 📌 Things I want to explore..
-> - Contiunue to explore the **JavaScript** programming language.
-> - **HTML** & **CSS**, even if just for some very basic front-end design.
-> - **UI**/**UX** design, designing stuf is fun, but I'm not that great at it.
-> - Making **my own game**. I know, wishful thinking huh? Oh well.
+> ### 🧑🏻‍💻 Let's Connect
+> Interested in collaborating on FiveM scripts, Minecraft plugins/mods, or Discord bots? Let's chat!
 >
-> ### 👾 Some of my favourite games are..
-> - Call of Duty
-> - FiveM (GTAV Roleplay)
-> - Counter Strike 2
-> - Minecraft
+> * **Discord:** paneedah
+> * **Email:** bart@panada.cc
 >
-> ### 🧑🏻‍💻 Hire me..
-> Want to hire me for a project? The best way to reach me is via Discord!
+> **Communities:**
+> * Kelly County RolePlay (FiveM): [https://discord.gg/RXpVfmKXsK](https://discord.gg/RXpVfmKXsK)
+> * Modern Warfare: Cubed (Minecraft Mod): [https://discord.gg/FxmrYg2eny](https://discord.gg/FxmrYg2eny) 
 > 
-> Reach out to me about **FiveM Scripts**, **Minecraft Plugins**, **Minecraft Mods** and **Discord Bots**!
->
-> ### 🗪 Get in touch with me..
-> - **Discord Username**: `paneedah`
-> - **Email**: `bart@panada.cc`
->
-> 🏠 **Join some of my discord communities!**
-> - [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
-> - [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny)
+> **Check out my GitHub for more!: [https://github.com/Paneedah?tab=repositories](https://github.com/Paneedah?tab=repositories)** (Note: Some projects are in private repositories) 
 
 <br>
 <div>
