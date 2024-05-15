@@ -12,10 +12,10 @@
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
 >
 > ### 📊 Notable Projects
-> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - Revamped, high-quality fork of a popular gun mod (Java).
-> * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** -  Large-scale Minecraft War server, achieved 150+ players at launch.
-> * **Head Developer: Kelly County Roleplay (FiveM)** -  Developed core scripts for a popular FiveM roleplay server (Lua).
-> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project in collaboration with [ameasere](https://github.com/ameasere) (Python).
+> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
+> * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players at launch.
+> * **Head Developer: Kelly County Roleplay (FiveM)** - Developed core scripts for a popular FiveM roleplay server.
+> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project in collaboration with [ameasere](https://github.com/ameasere).
 >
 > ### 📌 Goals & Interests
 > * Deepen my understanding of JavaScript, HTML, and CSS.
@@ -23,10 +23,10 @@
 > * Continue developing game-related projects, with an eventual goal of creating my own game. 
 >
 > ### 👾 Favorite Games
+> * Rust
 > * Call of Duty
 > * FiveM (GTAV Roleplay)
 > * Counter-Strike 2
-> * Minecraft
 >
 > ### 🧑🏻‍💻 Let's Connect
 > Interested in collaborating on FiveM scripts, Minecraft plugins/mods, or Discord bots? Let's chat!
@@ -34,7 +34,7 @@
 > * **Discord:** paneedah
 > * **Email:** bart@panada.cc
 >
-> **Communities:**
+> **My Communities:**
 > * [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
 > * [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny) 
 > 
