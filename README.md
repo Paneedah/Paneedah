@@ -9,6 +9,7 @@
 > * **Java:** 3+ years of experience developing Minecraft plugins, mods, and Discord bots.
 > * **Python:** 1+ year of experience, initially gained through my Cyber Security course.
 > * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
+> * **JavaScript**: < 6 months of experience, primarily with FiveM script development.
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
 >
 > ### 📊 Notable Projects
