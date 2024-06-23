@@ -13,7 +13,7 @@
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
 >
 > ### 📊 Notable Projects
-> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
+> * **(ex) Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
 > * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players at launch.
 > * **Head Developer: Kelly County Roleplay (FiveM)** - Developed core scripts for a popular FiveM roleplay server.
 > * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project in collaboration with [ameasere](https://github.com/ameasere).
