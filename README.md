@@ -3,7 +3,7 @@
 > # 🚀 Hi there! I'm Paneedah
 > 
 > ### 💬 About Me
-> I'm a 20-year-old software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I have a quirky sense of humor (blep! 😋). Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
+> I'm a 20-year-old software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I like to blep 😋. Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
 >
 > ### ⌨️ Technical Skills
 > * **Java:** 3+ years of experience developing Minecraft plugins, mods, and Discord bots.
