@@ -11,6 +11,7 @@
 > * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
 > * **JavaScript**: < 6 months of experience, primarily with FiveM script development.
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
+> * **C#:** Just started learning!
 >
 > ### 📊 Notable Projects
 > * **(ex) Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
