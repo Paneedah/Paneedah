@@ -6,7 +6,7 @@
 > I'm 21 years old, and I'm a software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I like to blep 😋. Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
 >
 > ### ⌨️ Technical Skills
-> * **Java:** 3+ years of experience developing Minecraft plugins, mods, and Discord bots.
+> * **Java:** 4+ years of experience developing Minecraft plugins, mods, and Discord bots.
 > * **Python:** 1+ year of experience, initially gained through my Cyber Security course.
 > * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
 > * **JavaScript**: < 6 months of experience, primarily with FiveM script development.
