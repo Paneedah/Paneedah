@@ -34,7 +34,7 @@
 > Interested in collaborating on FiveM scripts, Minecraft plugins/mods, or Discord bots? Let's chat!
 >
 > * **Discord:** paneedah
-> * **Email:** bart@panada.cc
+> * **Email:** github@panada.cc
 >
 > **My Communities:**
 > * [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
