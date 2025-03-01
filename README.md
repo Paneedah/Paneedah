@@ -11,13 +11,13 @@
 > * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
 > * **JavaScript**: < 6 months of experience, primarily with FiveM script development.
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
-> * **C#:** 6 months of basic understanding & knowledge of C# achieved through creating scripts for FiveM servers.
+> * **C#:** Entry-Level understanding & knowledge of C# achieved through creating scripts for FiveM servers.
 >
 > ### 📊 Notable Projects
-> * **(ex) Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
+> * **Development Manager: Kelly County Roleplay (FiveM)** - Developed core scripts for a popular FiveM roleplay server.
+> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
 > * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players at launch.
-> * **Head Developer: Kelly County Roleplay (FiveM)** - Developed core scripts for a popular FiveM roleplay server.
-> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project in collaboration with [ameasere](https://github.com/ameasere).
+> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project for my Cyber Security course.
 >
 > ### 📌 Goals & Interests
 > * Deepen my understanding of JavaScript, HTML, and CSS.
@@ -37,7 +37,7 @@
 > * **Email:** github@panada.cc
 >
 > **My Communities:**
-> * [Kelly County RolePlay (FiveM)](https://discord.gg/RXpVfmKXsK)
+> * [Kelly County RolePlay (FiveM)](https://discord.gg/kcdojrp)
 > * [Modern Warfare: Cubed (Minecraft Mod)](https://discord.gg/FxmrYg2eny) 
 > 
 > **Check out my [GitHub Repositories](https://github.com/Paneedah?tab=repositories) for more!** *(Note: Most projects are in private repositories)*
