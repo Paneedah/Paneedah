@@ -8,7 +8,7 @@
 > ### 💬 About Me
 > In short, I'm just your typical 21 year old with practically no life other than games, programming and some hobbies. Want to work on a project with me? Reach out (brownie points if it's gaming related)!
 >
-> Some random things about me: my favorite color is purple. Outside of coding I enjoy nature, all things animal-related (foxes especially! \*blep\*) and gaming with some buddies when I have some free time.
+> Some random things about me: my favorite color is purple. Outside of coding I enjoy nature, all things animal-related (foxes especially! \*blep\*) and gaming with buddies when I have some free time.
 > 
 > <br/>
 > 
