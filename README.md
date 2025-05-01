@@ -14,7 +14,7 @@
 > * **C#:** Entry-Level understanding & knowledge of C# achieved through creating scripts for FiveM servers.
 >
 > ### 📊 Notable Projects
-> * **Development Manager: Kelly County Roleplay (FiveM)** - Developed core scripts for a popular FiveM roleplay server.
+> * **Development Manager: [Kelly County Roleplay (FiveM)](https://docs.kellycountyrp.com/)** - Developed core scripts for a popular FiveM roleplay server.
 > * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod.
 > * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players at launch.
 > * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project for my Cyber Security course.
