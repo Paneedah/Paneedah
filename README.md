@@ -6,7 +6,9 @@
 
 > [!IMPORTANT]
 > ### 💬 About Me
-> I'm 21 years old, and I'm a software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My > favorite color is purple, and I like to blep 😋. Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
+> In short, I'm just your typical 21 year old with practically no life other than games, programming and some hobbies. Want to work on a project with me? Reach out (brownie points if it's gaming related)!
+>
+> Some random things about me: my favorite color is purple. Outside of coding I enjoy nature, all things animal-related (foxes especially! \*blep\*) and gaming with some buddies when I have some free time.
 > 
 > <br/>
 > 
