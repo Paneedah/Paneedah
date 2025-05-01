@@ -1,4 +1,4 @@
-![CachedImage_2560_1440_POS4](https://github.com/user-attachments/assets/49a0ed3a-cf2d-424b-bf97-f57f58e9981b)
+![CachedImage_2560_1440_POS4](https://github.com/user-attachments/assets/e6bed955-a14f-4638-bd17-0353d4643bb5)
 
 > [!IMPORTANT]
 > # 🚀 Hi there! I'm Paneedah
