@@ -1,7 +1,5 @@
 ![CachedImage_2560_1440_POS4](https://github.com/user-attachments/assets/e6bed955-a14f-4638-bd17-0353d4643bb5)
 
-<br/>
-
 ### <div align="center">Hi there, I'm Paneedah! 🚀</div>
 
 <br/>
