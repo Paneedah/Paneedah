@@ -13,20 +13,19 @@
 > <br/>
 > 
 > ### ⌨️ Technical Skills
-> * **Java:** 5+ years of experience developing Minecraft plugins, mods, and Discord bots.
-> * **Python:** 1+ year of experience, initially gained through my Cyber Security course.
-> * **Lua:** 2+ years of experience, primarily with FiveM (modded GTA 5).
-> * **JavaScript**: 1+ years of experience, primarily with FiveM script development.
-> * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
-> * **C#:** Entry-Level understanding & knowledge of C# achieved through creating scripts for FiveM servers.
+> - **Java:** 5+ years of experience developing Minecraft plugins, mods, and Discord bots.
+> - **Python:** 1+ year of experience, initially gained through my Cyber Security course.
+> - **Lua:** 2+ years of experience, primarily with FiveM (modded GTA 5).
+> - **JavaScript**: 1+ years of experience, primarily with FiveM script development.
+> - **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
+> - **C#:** Entry-Level understanding & knowledge of C# achieved through creating scripts for FiveM servers.
 > 
 > <br/>
 > 
 > ### 📊 Notable Projects
-> * **Development Manager: [Kelly County Roleplay (FiveM)](https://docs.kellycountyrp.com/)** - Developed core scripts for a popular FiveM roleplay server > ([Join the Community](https://discord.gg/kcdojrp)).
-> * **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular Minecraft Guns Mod > ([Join the Community](https://discord.gg/FxmrYg2eny)).
-> * **Founder & Lead Developer: NuclearLands/VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players at launch.
-> * **Senior Developer: [EasyRSA](https://github.com/ameasere/EasyRSA)** - University project for my Cyber Security course.
+> - **Development Manager: [Kelly County Roleplay (FiveM)](https://docs.kellycountyrp.com/)** - Developed core scripts for a popular [FiveM roleplay server](https://discord.gg/kcdojrp)
+> - **Lead Developer: [Modern Warfare: Cubed (Minecraft Mod)](https://github.com/Cubed-Development/Modern-Warfare-Cubed)** - A popular [Minecraft Guns Mod](https://discord.gg/FxmrYg2eny)
+> - **Founder & Lead Developer: VoidMC (Minecraft)** - Large-scale Minecraft War server, achieved 150+ players (no longer active)
 > 
 > <br/>
 > 
