@@ -1,8 +1,12 @@
 ![CachedImage_2560_1440_POS4](https://github.com/user-attachments/assets/e6bed955-a14f-4638-bd17-0353d4643bb5)
 
+<br/>
+
+### <div align="center">Hi there, I'm Paneedah! 🚀</div>
+
+<br/>
+
 > [!IMPORTANT]
-> # 🚀 Hi there! I'm Paneedah
-> 
 > ### 💬 About Me
 > I'm 21 years old, and I'm a software developer with a passion for game development, coding in multiple languages, and exploring new technologies. My favorite color is purple, and I like to blep 😋. Outside of coding, I enjoy gaming with friends and all things animal-related (foxes especially!).
 >
