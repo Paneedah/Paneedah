@@ -13,10 +13,10 @@
 > <br/>
 > 
 > ### ⌨️ Technical Skills
-> * **Java:** 4+ years of experience developing Minecraft plugins, mods, and Discord bots.
+> * **Java:** 5+ years of experience developing Minecraft plugins, mods, and Discord bots.
 > * **Python:** 1+ year of experience, initially gained through my Cyber Security course.
-> * **Lua:** 1+ year of experience, primarily with FiveM (modded GTA 5).
-> * **JavaScript**: < 6 months of experience, primarily with FiveM script development.
+> * **Lua:** 2+ years of experience, primarily with FiveM (modded GTA 5).
+> * **JavaScript**: 1+ years of experience, primarily with FiveM script development.
 > * **Web Development:** Entry-level understanding of HTML, CSS, and JavaScript.
 > * **C#:** Entry-Level understanding & knowledge of C# achieved through creating scripts for FiveM servers.
 > 
